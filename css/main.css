@@ -1,0 +1,235 @@
+body,h1,h2,form,input,p,button,select,li,ul{
+	padding: 0px;
+	margin: 0px;
+	font-family: 'Poppins', sans-serif;
+}
+
+
+
+.header{
+	overflow: hidden;
+	height: 90px;
+	background-color:#131137;
+}
+
+.facebook{
+
+	color:white;
+	width: 300px;
+	margin-top: 30px;
+	margin-left: 300px;
+	display: inline-block;
+}
+
+
+.form{
+	padding: 0px;
+	margin:20px 400px 0px 0px;
+	display: inline-block;
+	float:right;
+	font-size: 12px;
+
+
+}
+
+.email , .password{
+
+	color:white;
+	padding-right: 15px;
+	margin: 0px;
+
+	display: inline-block;
+
+
+}
+
+
+#email, #password{
+	height:20px;
+}
+
+
+.form p{
+	color:white;
+	margin-left: 196px;
+
+}
+
+
+.button{
+
+	border: 0px;
+	width: 50px;
+	height: 25px;
+	color: white;
+	background-color: #918978;
+	box-shadow: 0px 0px 6px 0px #888888;
+}
+
+
+.button:hover{
+
+	background-color:black;
+
+}
+
+
+
+
+/*
+-----------------------------------------------body-----------------------------*/
+
+
+.body{
+
+overflow: hidden;
+width: 100%;
+height: auto;
+
+
+background: rgb(255,255,255);
+background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 52%, rgba(227,227,227,1) 100%);
+
+
+}
+
+
+.headerAndImage{
+
+	margin: 2% 0px 0px 15.7%;
+	/*background-color: red;*/
+	width: 40%;
+	display: inline-block;
+}
+
+
+.account{
+
+ margin: 2% 15.7% 9.2% 0%;
+
+ float: right
+}
+
+
+
+.firstname  {                                          
+
+	
+height:50px;
+width:210px;
+font-size: 20px;
+border-width:1px; 
+border-radius: 6px;
+background-color: #ffffff
+
+
+}
+
+
+
+
+.surname {
+
+margin-left:20px;	
+height:50px;
+width:210px;
+font-size: 20px;
+border-width:1px;
+
+border-radius: 6px;
+background-color: #ffffff
+
+}
+
+
+
+.emailForNewAccount  {                                          
+
+margin-top:20px;		
+height:50px;
+width:440px;
+font-size: 20px;
+border-width:1px; 
+border-radius: 6px;
+background-color: #ffffff
+
+
+}
+
+
+.passwordForNewAccount{                                          
+
+margin-top:20px;		
+height:50px;
+width:440px;
+font-size: 20px;
+border-width:1px; 
+border-radius: 6px;
+background-color: #ffffff
+
+
+}
+
+
+h2{
+	color: #131137;
+}
+
+
+
+ select {
+
+ 	font-size: 20px;
+	width: 90px;
+	height:46px;
+}
+
+
+
+.radio{
+
+/*	margin-right: 15px;*/
+	width: 40px;
+	height:20px;
+	font-size: 25px;
+}
+
+
+.radioText{
+
+	margin-right: 20px;
+	font-size: 25px;
+
+}
+
+
+
+.darkButton{
+
+	width: 300px;
+	height:60px;
+	font-size: 25px;
+	color: white;
+	background-color: #131137;
+	border-radius: 6px;
+
+}
+
+
+
+
+/*
+-----------------------------Footer---------------------------------
+*/
+
+
+
+/*.footer li{
+
+	border: 2px solid red;
+	font-size: 12px;
+	display: inline;
+	margin-right: 10px;
+
+
+}*/
